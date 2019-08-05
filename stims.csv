@@ -1,0 +1,13 @@
+vidID,cond,path
+1,active,videos/ActiveVid/hiking.mp4
+2,active,videos/ActiveVid/basketball.mp4
+3,active,videos/ActiveVid/peloton.mp4
+4,active,videos/ActiveVid/boxing.mp4
+5,active,videos/ActiveVid/running.mp4
+6,active,videos/ActiveVid/crunches.mp4
+7,sedendary,videos/ActiveVid/corona.mp4
+8,sedentary,videos/ActiveVid/lazy_boy2.mp4
+9,sedentary,videos/ActiveVid/listening to music.mp4
+10,sedentary,videos/ActiveVid/meditation.mp4
+11,sedentary,videos/ActiveVid/reading.mp4
+12,sedentary,videos/ActiveVid/netflix.mp4
