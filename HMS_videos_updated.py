@@ -95,7 +95,7 @@ for rating in (1,2,3,4,5):
 
 
 # Get playing order from PSA_retrans task
-stims=[ row for row in csv.DictReader(open('stims_test.csv', 'rU'),delimiter=',')]
+stims=[ row for row in csv.DictReader(open('stims.csv', 'rU'),delimiter=',')]
 
 trials = data.TrialHandler(stims, 1, method='random')
 
