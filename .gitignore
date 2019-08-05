@@ -123,4 +123,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-videos/Video Clips/\.DS_Store
+# ignore Mac related files
+*.DS_Store
